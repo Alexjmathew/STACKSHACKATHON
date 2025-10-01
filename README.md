@@ -1,8 +1,8 @@
-***STACKS PROJECT***
+# STACKS PROJECT
 
 
 
-STACKS PROJECT: Stacks SIP (Systematic Investment Plan) 💰
+## STACKS PROJECT: Stacks SIP (Systematic Investment Plan) 💰
 
 
 
@@ -13,7 +13,7 @@ This repository contains the implementation of a Stacks SIP application. The pla
 
 By automating consistent, small-scale purchases, Stacks SIP helps users mitigate the risks associated with market timing, fostering disciplined and long-term investment strategies directly on the blockchain.
 
-✨ Features
+### ✨ Features
 
 Automated Investment Scheduling: Set up recurring investments at daily, weekly, or monthly intervals directly via smart contracts.
 
@@ -28,3 +28,48 @@ Secure Wallet Integration: Connects securely with standard Stacks wallets (e.g.,
 Transaction Notifications: Receive timely updates on successful investments, schedule changes, and other important account activities.
 
 User-Friendly Interface: A clean and intuitive UI/UX designed for easy setup and management of your SIPs.
+
+### 📖 Documentation
+Usage Guide
+
+    Connect Wallet
+
+        Click "Connect Wallet" button
+
+        Authorize with your Stacks wallet (Hiro or Xverse)
+
+    Create SIP Plan
+
+        Select token (STX, USDA, etc.)
+
+        Set investment amount
+
+        Choose frequency (daily, weekly, monthly)
+
+        Confirm transaction
+
+    Fund Account
+
+        Deposit funds to cover scheduled investments
+
+        Monitor balance in dashboard
+
+    Monitor & Manage
+
+        Track investments through dashboard
+
+        View analytics and performance
+
+        Modify or cancel plans as needed
+
+### Development Process
+
+    Fork the repository
+
+    Create a feature branch (git checkout -b feature/amazing-feature)
+
+    Commit your changes (git commit -m 'Add amazing feature')
+
+    Push to the branch (git push origin feature/amazing-feature)
+
+    Open a Pull Request
